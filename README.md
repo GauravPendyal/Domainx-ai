@@ -146,21 +146,6 @@ domainx-ai/
 
 ---
 
-## 👨‍💻 Team
-
-**Built by Manjunath & Gaurav — Hackathon Submission 2026**
-
-<p>
-  <a href="https://www.linkedin.com/in/s-manjunath-reddy-51784638a/">
-    <img src="https://img.shields.io/badge/Manjunath-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Manju10092006">
-    <img src="https://img.shields.io/badge/Manjunath-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GauravPendyal">
-    <img src="https://img.shields.io/badge/Gaurav-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
